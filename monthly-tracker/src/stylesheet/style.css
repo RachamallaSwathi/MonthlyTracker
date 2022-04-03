@@ -1,6 +1,6 @@
 h1{
     text-align: center;
-    color: #7FAED5;
+    color: #5590c0;
     margin-top: 3rem;
 }
 
@@ -36,7 +36,7 @@ input[type='submit']{
     border-left: unset;
     border-bottom-right-radius: .2rem;
     border-top-right-radius: .2rem;
-    background-color: #41D1B2;
+    background-color: #2bb899;
     color: white;
     font-size: 1.2rem;
 }
